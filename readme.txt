@@ -2,9 +2,9 @@
 Contributors: @bphelp
 Tags: buddypress, profiles
 Requires at least: WordPress 3.2 BuddyPress 1.5
-Tested up to: WordPress 3.5.1 BuddyPress 1.7.1
+Tested up to: WordPress 3.5.1 BuddyPress 1.7.2
 License: GNU/GPL 2
-Stable tag: 1.0
+Stable tag: 1.2
 
 This light weight plugin will remove the automatic links in BP profiles. 
 
@@ -24,7 +24,10 @@ None at the moment
 
 == Notes ==
 
-== Changelog == 
+== Changelog ==
+
+= 1.2 =
+Changed bp_init to init in remove-profile-links.php for compatability  
 
 = 1.0 =
 Initial Release
