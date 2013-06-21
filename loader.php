@@ -6,7 +6,7 @@ Description: Removes the Auto Created Links Form BP Profiles.
 No settings just activate it to remove the links.
 Version: 1.2
 Requires at least: WordPress 3.2 / BuddyPress 1.5.
-Tested up to: WordPress 3.5.1 / BuddyPress 1.7.2
+Tested up to: WordPress 3.6 beta2 / BuddyPress 1.8 beta1
 License: GNU/GPL 2
 Author: @bphelp
 Author URI: http://www.wordpress.com
