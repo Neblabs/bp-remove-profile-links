@@ -18,7 +18,7 @@ function remove_profile_links_install_buddypress_notice() {
 }
 
 class bphelp_remove_profile_links {
-	function remove_xprofile_links() {
+	static function remove_xprofile_links() {
 		remove_filter( 'bp_get_the_profile_field_value', 'xprofile_filter_link_profile_data', 9, 2 );
 	}
 }
